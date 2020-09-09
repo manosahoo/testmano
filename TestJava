@@ -1,7 +1,0 @@
-// Your First Program
-
-class TestJava {
-    public static void main(String[] args) {
-        System.out.println("Manoranjan Welcome Your First job!"); 
-    }
-}
